@@ -9,7 +9,7 @@ Give me a Star * on GitHub. Click on (<>Code) and then Right Side Above the Abou
 
 2:- MOCK_DATA.json This file will be used as for our Backend Database. Your Choice you can add MongoDB or MySQL Database. Otherwise If is good enough to understand concepts.
 
-
+3:-Go to the server folder (cd express-Backend) and start the server (npm start). These are CMD commands.  You have to open 2 CMD Terminal. One For the Backend One for Frontend.
 
 
 
@@ -19,3 +19,5 @@ Give me a Star * on GitHub. Click on (<>Code) and then Right Side Above the Abou
 ----------------------------Frontend------------------------
 
 1: After Creating the Server and Making API's. Now you are ready to Move on to Frontend REACT.
+
+2:-Go to the React folder (cd react-frontend) and start the local front-end server (npm start). These are CMD commands. You have to open 2 CMD Terminal. 1st For backend and 2nd for Frontend.

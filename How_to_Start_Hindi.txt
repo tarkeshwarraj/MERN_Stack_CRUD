@@ -8,6 +8,12 @@ Aap mujha Star * Den Sakta hai. (<>Code) par click karen fir Right Side About ka
 
 2:- MOCK_DATA.json Is File ko haam databse ki thara use kaenge. Aap chao tho MongoDB ya MySql bhi use kar sakta ho. waisa ya kaafi hai aapka Concepts ko ache sa smjhna ka liya.
 
+3:-Server folder mein jaaye (cd express-Backend) Aur server start kare (npm start).ya Sab command CMD mein deni hai. Aapko 2 CMD terminal open karni hai 1st Backend ka liya 2nd Frontend ka liya.
+
+
+
+
+
 
 
 
@@ -15,3 +21,5 @@ Aap mujha Star * Den Sakta hai. (<>Code) par click karen fir Right Side About ka
 
 ----------------------------FRONTEND------------------------
 1:- Server Aur ApI's banane ka Baad ABB aap Ready hai Frontend par kam karne ka liya (REACT).
+
+2:- Reach folder mein jaaye (cd react-frontend) Aur server Start kare (npm start). Ya Sab command CMD mein deni hai. Aapko 2 CMD terminal open karni hai 1st Backend ka liya 2nd Frontend ka liya.
