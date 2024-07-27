@@ -1,0 +1,20 @@
+------------------------------------Backend--------------------------
+
+1:- Start with index.js file (express-backend)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------Frontend------------------------
+
+1: After Creating the Server and Making API's. Now you ready to Move on Frontend REACT.

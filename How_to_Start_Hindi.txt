@@ -1,13 +1,6 @@
 ------------------------------------Backend--------------------------
 
-1:- Start with index.js file (express-backend)
-
-
-
-
-
-
-
+1:- Start with index.js file (express-backend). 
 
 
 
