@@ -7,9 +7,7 @@ Give me a Star * on GitHub. Click on (<>Code) and then Right Side Above the Abou
 ------------------------------------Backend--------------------------
 1:- Start with index.js file (express-backend). In This Directory, we will create a backend Server and Will make some Api for Frontend React.
 
-
-
-
+2:- MOCK_DATA.json This file will be used as for our Backend Database. Your Choice you can add MongoDB or MySQL Database. Otherwise If is good enough to understand concepts.
 
 
 

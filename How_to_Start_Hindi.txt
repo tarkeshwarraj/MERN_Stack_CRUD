@@ -1,21 +1,17 @@
 **************************Important**************************
 Is file ko Read karne sa Phele Full Code ko 15 min tak watch karen. Smjhna ki Kosis karen ki Code kaisa kaam kar rahi hai. Ya ek Best practice hai.
 
-Aap mujha Star * Den Sakta hai. Right Side About ka Upar hoti hai.
+Aap mujha Star * Den Sakta hai. (<>Code) par click karen fir Right Side About ka Upar hoti hai.
 
-------------------------------------Backend--------------------------
+----------------------------BACKEND--------------------------
 1:- Index.js sa Start karee jo express-backend Folder mein hai. Is index.js mein ham backend Server banyenga aur Kuch API's bhi... jisko ham Frontend React mein use karenge.
 
+2:- MOCK_DATA.json Is File ko haam databse ki thara use kaenge. Aap chao tho MongoDB ya MySql bhi use kar sakta ho. waisa ya kaafi hai aapka Concepts ko ache sa smjhna ka liya.
 
 
 
 
 
 
-
-
-
-
-
-----------------------------Frontend------------------------
+----------------------------FRONTEND------------------------
 1:- Server Aur ApI's banane ka Baad ABB aap Ready hai Frontend par kam karne ka liya (REACT).
