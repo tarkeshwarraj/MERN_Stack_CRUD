@@ -69,4 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-In this repository I explain everything line by line for CRUD application. Build on MERN stack. You can use it for your practice and also for learning and understanding purpose. That how the CRUD application work in MERN Stack.
+About
+In this repository, I explain everything line by line for the CRUD application. Build on MERN stack. You can use it to practice, learn and understand the concept. That is how the CRUD application works in MERN Stack.

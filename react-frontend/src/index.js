@@ -1,13 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root")); //Grabbing the root element from index.html (Check Public Folder)
 root.render(
   <React.StrictMode>
     <App />
+    {/* Sending this component to index.html. This component will show there.*/}
   </React.StrictMode>
 );
 

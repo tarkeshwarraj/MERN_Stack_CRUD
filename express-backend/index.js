@@ -19,7 +19,7 @@ app.use(
 );
 app.use(express.json());
 
-////////////////////////////////////////////////////////
+////////////////////////API FOR BROWSER////////////////////////////////
 //Routes  Server Side render Page. Is Type sa Ham Direct Server par File Generator karta hai aur client to Full page deta hai,HTML,css, React and all that
 app.get("/users", (req, res) => {
   const html = `
@@ -28,21 +28,22 @@ app.get("/users", (req, res) => {
     </ul>`;
   res.send(html);
 });
-/////////////////////////////////////////////////////////
 
-/////////////////////////////////////////////////////////
-//Route ya API For Mobile. Is type sa Ham API bante hai is par ham JSON format mein frontend to data send karta hai.Mobile App mein is thara ka API use hota hai jo JSON mein data late hai Backend sa.
+///////////////////////API For Mobile//////////////////////////////////
+//Es type sa Ham API bante hai is par ham JSON format mein frontend to data send karta hai.Mobile App mein is thara ka API use hota hai jo JSON mein data late hai Backend sa.
 app.get("/api/users", (req, res) => {
-  return res.json(users); //return response with users data in json format(line no 2);
+  return res.json(users); //return response with users data in json format(Check line no 2);
 });
 
+///////////////////////API For Single User//////////////////////////////////
 //This is For Single Id
 app.get("/api/users/:id", (req, res) => {
   const id = Number(req.params.id);
   const user = users.find((user) => user.id === id);
   return res.json(user);
 });
-////////////////////////////////////////////////////////
+
+////////////////////////ADD USER////////////////////////////////
 //This is for POST Request Data. To Insert a new user or Data in Database
 app.post("/api/users", (req, res) => {
   //When this call the Arrow function will called (line no 38)
@@ -56,6 +57,7 @@ app.post("/api/users", (req, res) => {
   });
 });
 
+////////////////////////UPDATE USER////////////////////////////////
 app.patch("/api/users/:id", (req, res) => {
   const id = Number(req.params.id);
   const userIndex = users.findIndex((user) => user.id === id);
@@ -80,6 +82,7 @@ app.patch("/api/users/:id", (req, res) => {
   });
 });
 
+////////////////////////DELETE USER////////////////////////////////
 //To Delete the user from The Database we using this Route/API. In Easy words below function
 app.delete("/api/users/:id", (req, res) => {
   const id = Number(req.params.id);
@@ -98,4 +101,5 @@ app.delete("/api/users/:id", (req, res) => {
   });
 });
 
+///////////////////////Server Listening Code//////////////////////////////////
 app.listen(PORT, () => console.log("Server Started at Port number 8000")); //Server is listening
