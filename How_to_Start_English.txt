@@ -1,7 +1,7 @@
 **************************Important**************************
 Before Reading this file. Watch Whole Files For 15 min and try to understand How the code is working. This is the Best practice
 
-Give me a Star * on GitHub. Right Side Above About section
+Give me a Star * on GitHub. Click on (<>Code) and then Right Side Above the About section.
 
 
 ------------------------------------Backend--------------------------
