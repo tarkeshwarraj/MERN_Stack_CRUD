@@ -1,9 +1,11 @@
 **************************Important**************************
-Before Reading this file.Watch Whole Files For 15 min and try to understant How the code is working. This is Best practice
+Before Reading this file. Watch Whole Files For 15 min and try to understand How the code is working. This is the Best practice
+
+Give me a Star * on GitHub. Right Side Above About section
 
 
 ------------------------------------Backend--------------------------
-1:- Start with index.js file (express-backend). In This Directory we will Create a backend Server and Will make some Api for Frontend React.
+1:- Start with index.js file (express-backend). In This Directory, we will create a backend Server and Will make some Api for Frontend React.
 
 
 
@@ -18,4 +20,4 @@ Before Reading this file.Watch Whole Files For 15 min and try to understant How 
 
 ----------------------------Frontend------------------------
 
-1: After Creating the Server and Making API's. Now you ready to Move on Frontend REACT.
+1: After Creating the Server and Making API's. Now you are ready to Move on to Frontend REACT.

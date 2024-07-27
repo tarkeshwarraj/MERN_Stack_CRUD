@@ -1,6 +1,7 @@
 **************************Important**************************
-Is file ko Read karne sa Phele Full Code ko 15 min ko watch karen. Smjhna ki Kosis karen ki Code kaisa kaam kar rahi hai. Ya ek Best practice hai.
+Is file ko Read karne sa Phele Full Code ko 15 min tak watch karen. Smjhna ki Kosis karen ki Code kaisa kaam kar rahi hai. Ya ek Best practice hai.
 
+Aap mujha Star * Den Sakta hai. Right Side About ka Upar hoti hai.
 
 ------------------------------------Backend--------------------------
 1:- Index.js sa Start karee jo express-backend Folder mein hai. Is index.js mein ham backend Server banyenga aur Kuch API's bhi... jisko ham Frontend React mein use karenge.
